@@ -1,4 +1,4 @@
-# 🚀 Dharmik Patel's GitHub
+# 🚀 Dharmik Patel
 
 ### 🌐 [My Website](#)
 
