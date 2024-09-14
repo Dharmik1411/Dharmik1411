@@ -1,7 +1,7 @@
 # 🚀 Dharmik Patel
 
 ### 👋 About Me:
-- I’m Dharmik, a passionate Data Science student at Wilfrid Laurier University.
+- I’m Dharmik, a passionate Computer Science student at Wilfrid Laurier University.
 - I have a deep interest in AI, machine learning, and data analytics, with hands-on experience in real-world applications.
 - Actively seeking opportunities to contribute to open-source projects and collaborate on innovative AI and data science solutions.
 
