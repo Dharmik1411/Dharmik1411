@@ -9,7 +9,7 @@
 
 ### 🎓 Education:
 **Wilfrid Laurier University**  
-_Bachelor of Science in Data Science (Sep. 2022 – Apr 2026)_  
+_Bachelor of Science in Computer Science (Sep. 2022 – Apr 2026)_  
 Waterloo, ON
 
 ### 💻 Skills:
