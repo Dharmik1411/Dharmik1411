@@ -6,6 +6,8 @@
 - Actively seeking opportunities to contribute to open-source projects and collaborate on innovative AI and data science solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/dharmik-p/)
+[![Resume](https://img.shields.io/badge/Resume-grey?style=flat&logo=google-chrome&labelColor=red)](https://drive.google.com/file/d/1_xIPt0YzYgR50LuMBQ_efIiSvvderwmp/view?usp=sharing)
+
 
 ### 🎓 Education:
 **Wilfrid Laurier University**  
